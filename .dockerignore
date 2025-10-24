@@ -1,0 +1,17 @@
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+build/
+dist/
+.vscode
+.git
+*.log
+*.sqlite3
+\.pytest_cache
+node_modules
+frontend/node_modules
+Dockerfile
